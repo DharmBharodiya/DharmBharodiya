@@ -4,7 +4,7 @@
 </p> -->
 
 <h1 align="center">Hi, I'm Dharm Bharodiya 👋</h1>
-<h3 align="center">I build, I create, I capture</h3>
+<h3 align="center">i build, i create, i capture</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&center=true&vCenter=true&width=600&lines=i+click+photos+📸;i+work+with+colors+🎨;i+code+and+create+cool+stuff+💻" />

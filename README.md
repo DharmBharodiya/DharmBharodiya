@@ -2,7 +2,7 @@
 <!-- <p align="center">
   <img src="https://via.placeholder.com/1000x300.png?text=Your+Banner+Artwork+Here" alt="Banner Image" />
 </p> -->
-<h1 align="center">Hi, I'm Dharm Bharodiya 👋</h1>
+<h1 align="center">Hi, I'm Dharm 👋</h1>
 <h3 align="center">i build, i create, i capture</h3>
 
 <p align="center">

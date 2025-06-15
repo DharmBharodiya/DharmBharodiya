@@ -15,8 +15,8 @@
 
 🎓 Final-year IT student @ A D Patel Institute of Technology  
 ✨ Passionate about tech, visuals, and storytelling  
-🧩 Curious mind constantly blending design & code for fun, expression, and learning  
-🌈 Finding the sweet spot between minimal logic and maximum aesthetic
+<!--🧩 Curious mind constantly blending design & code for fun, expression, and learning  
+🌈 Finding the sweet spot between minimal logic and maximum aesthetic -->
 
 ---
 
